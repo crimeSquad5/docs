@@ -1,4 +1,4 @@
----
+---hhe
 title: GitHub Trademark Policy
 redirect_from:
   - /articles/github-trademark-policy
